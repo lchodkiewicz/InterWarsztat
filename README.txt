@@ -1,0 +1,3 @@
+This is just another university project...
+@author Adam Ostrowski
+@author £ukasz Chodkiewicz
